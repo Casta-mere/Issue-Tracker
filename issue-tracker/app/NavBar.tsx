@@ -22,7 +22,7 @@ export default NavBar;
 
 const links = [
   { label: <AiFillBug />, href: "/" },
-  { label: "DashBoard", href: "/dashboard" },
+  { label: "DashBoard", href: "/" },
   { label: "Issues", href: "/issues" },
 ];
 
